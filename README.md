@@ -69,6 +69,20 @@ The output must be printed in the following format:
 First line: If possible, then print YES. Otherwise, print NO.
 Second line: If the answer is YES, then print the way to do so.
 
+# Problem 4:
+Subarray Maximums
+
+I/P
+5 3
+1 2 3 4 5
+1 3
+1 5 
+5 5
+
+O/P
+10
+35
+15
 
 
 
