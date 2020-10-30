@@ -1,5 +1,5 @@
 # Hackerearth
-Problem 1:
+# Problem 1:
 Chandu's girlfriend loves arrays that are sorted in non-increasing order. Today is her birthday. Chandu wants to give her some sorted arrays on her birthday. But the shop has only unsorted arrays. So, Chandu bought T unsorted arrays and is trying to sort them. But, he doesn't have much time to sort the arrays manually as he is getting late for the birthday party. So, he asked you to write a program to sort the T arrays in non-increasing order. Help him, or his girlfriend will kill him.
 
 Input:
@@ -26,7 +26,7 @@ SAMPLE OUTPUT
 5 4 3 2 1
 
 
-Problem 2:
+# Problem 2:
 Ashu is very fond of Prime numbers and he like challenging his friends by giving them various problems based on Mathematics and Prime number. One of his friend Harshit is jealous and challenges him to solve a task. Task is :
 Given a prime number X, you need to give the count of all numbers in range 1 to 106 inclusive which have minimum prime factor X.
 Help Ashu in solving this task.
