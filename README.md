@@ -1,4 +1,5 @@
 # Hackerearth
+Problem 1:
 Chandu's girlfriend loves arrays that are sorted in non-increasing order. Today is her birthday. Chandu wants to give her some sorted arrays on her birthday. But the shop has only unsorted arrays. So, Chandu bought T unsorted arrays and is trying to sort them. But, he doesn't have much time to sort the arrays manually as he is getting late for the birthday party. So, he asked you to write a program to sort the T arrays in non-increasing order. Help him, or his girlfriend will kill him.
 
 Input:
@@ -23,8 +24,30 @@ SAMPLE INPUT
 SAMPLE OUTPUT 
 5 4 3 2 2
 5 4 3 2 1
-Time Limit: 2.0 sec(s) for each input file.
-Memory Limit: 256 MB
-Source Limit: 1024 KB
-Marking Scheme: Score is assigned if any testcase passes.
-Allowed Languages: Bash, C, C++, C++14, C++17, Clojure, C#, D, Erlang, F#, Go, Groovy, Haskell, Java, Java 8, Java 14, JavaScript(Rhino), JavaScript(Node.js), Julia, Kotlin, Lisp, Lisp (SBCL), Lua, Objective-C, OCaml, Octave, Pascal, Perl, PHP, Python, Python 3, Python 3.8, R(RScript), Racket, Ruby, Rust, Scala, Swift-4.1, Swift, TypeScript, Visual Basic
+
+
+Problem 2:
+Ashu is very fond of Prime numbers and he like challenging his friends by giving them various problems based on Mathematics and Prime number. One of his friend Harshit is jealous and challenges him to solve a task. Task is :
+Given a prime number X, you need to give the count of all numbers in range 1 to 106 inclusive which have minimum prime factor X.
+Help Ashu in solving this task.
+
+Input:
+First line consist of numer of test cases T.
+Each test case contains a single number X.
+
+Output:
+Output for each test case count of all numbers in range 1 to 106 inclusive which have minimum prime factor X.
+I/P
+2
+2
+11
+O/P
+500000
+20779
+
+
+
+
+
+
+
